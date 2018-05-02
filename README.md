@@ -1,5 +1,3 @@
 # hello-world
-My FIRST repository
-
 Je suis Étienne, un spécialiste organo-technologique de la firme LGS dans la Ville de Québec au Canada.
 Je suis un dévellopeur Powershell, j'adore ce créno.
