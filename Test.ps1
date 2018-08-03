@@ -21,3 +21,14 @@ if ($i -gt 1) {
 if ($i -gt 1) {
   Write-Host "c'est long"
 }
+
+
+#MÉGA CODE ULTRATRONIQUE
+START-SLEEP -Seconds (Get-Random)
+START-SLEEP -Seconds (Get-Random)
+START-SLEEP -Seconds (Get-Random)
+START-SLEEP -Seconds (Get-Random)
+START-SLEEP -Seconds (Get-Random)
+START-SLEEP -Seconds (Get-Random)
+START-SLEEP -Seconds (Get-Random)
+START-SLEEP -Seconds (Get-Random)
