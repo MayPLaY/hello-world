@@ -16,3 +16,8 @@ if ($i -gt 1) {
   Show-Swag
   Show-Swag
 }
+
+#Issue closing
+if ($i -gt 1) {
+  Write-Host "c'est long"
+}
