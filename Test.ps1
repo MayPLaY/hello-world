@@ -9,3 +9,4 @@ COMMENTAIRE YOOOO!
 $i = Get-Random
 
 #Patate
+./patate.ps1
