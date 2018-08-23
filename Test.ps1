@@ -8,3 +8,5 @@ COMMENTAIRE YOOOO!
 #On ajoute un peu de piquant!
 $i = Get-Random
 
+#Patate
+./patate.ps1
