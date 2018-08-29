@@ -11,3 +11,4 @@ $i = Get-Random
 #Patate
 ./patate.ps1
 ./patate.ps1
+./patate.ps1
